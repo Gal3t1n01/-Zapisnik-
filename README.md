@@ -1,0 +1,2 @@
+# Zapisnik
+ Projekt iz C
